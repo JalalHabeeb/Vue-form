@@ -1,19 +1,23 @@
 # web-form
 
 ## Project setup
+
 ```
 npm install
 ```
 
 ### Compiles and hot-reloads for development
+
 ```
 npm run serve
 ```
 
 ### Compiles and minifies for production
+
 ```
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Check the form
+
+Check this form [Vue signup form](https://stupendous-cannoli-0b623b.netlify.app/).
